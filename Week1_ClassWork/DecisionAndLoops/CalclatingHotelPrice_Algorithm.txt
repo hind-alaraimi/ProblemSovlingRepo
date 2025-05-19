@@ -1,0 +1,6 @@
+1- input type of guest and number of nights
+2- check if type of guest = student
+3- if true calculate totalPrice = (price - price*0.2) * number of night
+4- if false, check if type of guest is regular and number of nights > 3
+5- if true calculate totalPrice = (price - price*0.15) * number of night
+6- else calculate totalPrice = price*number of night
