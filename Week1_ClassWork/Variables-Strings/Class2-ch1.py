@@ -1,0 +1,1 @@
+purchase_price,car_eff = input("purchase price:"),input("car eff:")
